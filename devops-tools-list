@@ -1,0 +1,30 @@
+
+> Source Code Management -
+Git, Mercurial, IBM Rational ClearCase, Subversion, TFS, etc.
+
+> Container Orchestration -
+Docker, CoreOS, Kubernetes, Mesosphere DC/OS, Rancher, etc.
+
+> Continuous Integration (CI)/ Continuous Delivery (CD) -
+BitBucket, JFrog, Shippable, Jenkins, Bamboo, GitLab, etc.
+
+> Configuration Management -
+Puppet, Ansible, CFEngine, Chef, etc.
+
+> Build Automation -
+Cake, Ant, Grunt, Maven, etc.
+
+> Performance/Load testing -
+Jmeter, Load Runner, Locust, etc
+
+> Monitoring -
+Big Panda, App Dynamics, New Relic, PagerDuty, Prometheus, etc.
+
+> Collaboration -
+Basecamp, JIRA, Slack, Microsoft Teams, Confluence, etc.
+
+> Testing Framework -
+Sauce Labs, Selenium, Zephyr, Tricentis Tosca, BrowserStack, Perfecto, AWS Mobile Device Farm,  UFT, RobotFramework, Appium, VSTS, etc.
+
+> DevSecOps -
+Evident, Aqua, CodeAI, SumoLogic, etc.
