@@ -66,3 +66,5 @@ column/table/data intact, but mark that one as obsolete somewhere
 * Deployment system can look for any obsolete data and delete the data that are at least 2 releases old
 * This enable rollback in ncase of any issue
   
+## Reference
+https://medius.studios.ms/Embed/Video/THR2017?sid=THR2017
