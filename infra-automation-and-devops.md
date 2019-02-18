@@ -8,6 +8,7 @@ https://redditblog.com/2017/06/02/the-evolution-of-code-deploys-at-reddit/
 # devsecops
 
 # SRE
+https://landing.google.com/sre/sre-book/toc/index.html
 
 # Monitoring
 https://www.irondb.io/2018/08/tsdbs-at-scale-part-one/
