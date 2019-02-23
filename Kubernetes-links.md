@@ -17,3 +17,6 @@
 9. Running Flask on Kubernetes - http://bit.ly/2SRNeY1
 
 10. Monitoring Kubernetes, part 1: the challenges + data sources - http://bit.ly/2GuR9nS
+
+https://kubernetestutorials.com/
+
