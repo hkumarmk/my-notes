@@ -8,7 +8,8 @@ https://devops.com/blockchain-make-devops-better/
 # CI (continuous Integration)
 
 # CD (Continous Deployment)
-http://blog.dixo.net/2015/02/blue-turquoise-green-deployment/
+* [Blue-turquoise-green deployment, an interesting alternative of blue-green deployments especially with peristance](http://blog.dixo.net/2015/02/blue-turquoise-green-deployment/)
+* [Automated Canary Deployments with Flagger and Istio](https://medium.com/google-cloud/automated-canary-deployments-with-flagger-and-istio-ac747827f9d1)
 
 # devsecops
 
