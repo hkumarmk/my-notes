@@ -8,15 +8,17 @@ https://devops.com/blockchain-make-devops-better/
 # CI (continuous Integration)
 
 # CD (Continous Deployment)
-* [Blue-turquoise-green deployment, an interesting alternative of blue-green deployments especially with peristance](http://blog.dixo.net/2015/02/blue-turquoise-green-deployment/)
+* [Blue-turquoise-green deployment, an interesting alternative to blue-green deployments especially with peristance](http://blog.dixo.net/2015/02/blue-turquoise-green-deployment/)
 * [Automated Canary Deployments with Flagger and Istio](https://medium.com/google-cloud/automated-canary-deployments-with-flagger-and-istio-ac747827f9d1)
 
 # devsecops
 
 # SRE
-https://landing.google.com/sre/sre-book/toc/index.html
-http://blog.adnanmasood.com/2016/05/19/intelligent-site-reliability-engineering-a-machine-learning-perspective/
-https://medium.com/netflix-techblog/tracking-down-the-villains-outlier-detection-at-netflix-40360b31732
+* [Google SRE Book](https://landing.google.com/sre/sre-book/toc/index.html)
+* [SRE in machine learning perspective](http://blog.adnanmasood.com/2016/05/19/intelligent-site-reliability-engineering-a-machine-learning-perspective/)
+* [Outlier detection using machine learning in netflix operations](https://medium.com/netflix-techblog/tracking-down-the-villains-outlier-detection-at-netflix-40360b31732)
+
+
 
 # Monitoring
 https://www.irondb.io/2018/08/tsdbs-at-scale-part-one/
