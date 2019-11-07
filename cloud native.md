@@ -13,3 +13,4 @@
 |[Lifecycle Manager](https://github.com/operator-framework/operator-lifecycle-manager#overview)|oversees installation, updates and management of Operator|
 |[Metering](https://github.com/operator-framework/operator-metering#project-status-alpha)|usage reporting Operators that provides specialized services|
 |[TOSCA](https://wiki.oasis-open.org/tosca)|International standard that enables portability and automated management across cloud providers, regardless of platform.|
+|[Keptn](https://keptn.sh/)|Event driven control plane for application delivery and automated ops|
