@@ -13,3 +13,4 @@ http://bit.ly/2GuR9nS | Monitoring Kubernetes, part 1: the challenges + data sou
 https://kubernetestutorials.com/ | 
 https://github.com/IBM/portieris | Kubernetes Admission Controller for verifying image trust with Notary
 https://github.com/openshift-evangelists/kbe | Kubernetes by example
+https://github.com/kelseyhightower/kubernetes-initializer-tutorial | Kubernetes initializers handson tutorial
