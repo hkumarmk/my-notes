@@ -14,3 +14,4 @@ https://kubernetestutorials.com/ |
 https://github.com/IBM/portieris | Kubernetes Admission Controller for verifying image trust with Notary
 https://github.com/openshift-evangelists/kbe | Kubernetes by example
 https://github.com/kelseyhightower/kubernetes-initializer-tutorial | Kubernetes initializers handson tutorial
+https://www.magalix.com/blog/kubernetes-service-catalog-101|Kubernetes service catalog 101
